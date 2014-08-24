@@ -4,6 +4,9 @@ CreativeControl
 This is a unofficial fork of CreativeControl plugin which was maintained by FurmigaHumana.
 
 Changes:
+* Fixed Itemstack/inventory lost error.
+
+Changes by kangarko:
 * Updated for Minecraft 1.7.8
 * Fixed Prism and AuthMe-Reloaded hooks.
 * Added support for WorldEdit 6.x
